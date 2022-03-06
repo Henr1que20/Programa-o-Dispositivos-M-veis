@@ -1,0 +1,16 @@
+{
+  "name": "Nova pasta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+
+  "devDependencies":{
+    "nodemon": "^2.0.15" 
+  }
+
+  
+}
